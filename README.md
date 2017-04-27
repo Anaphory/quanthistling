@@ -1,2 +1,2 @@
 # quanthistling
-The web pages shown on http://lists.model-ling.eu
+Web pages for the quantitative historical linguistics mailing list server
